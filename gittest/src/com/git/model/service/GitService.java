@@ -6,4 +6,10 @@ public class GitService {
 
 		
 	}
+	
+	public void checkTest2() {
+
+		
+	}
+	
 }
